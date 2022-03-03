@@ -106,4 +106,3 @@ def pad(batch):
     f = torch.LongTensor
 
     return words, f(x), is_heads, tags, f(y), seqlens
-    

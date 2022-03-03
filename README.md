@@ -1,6 +1,6 @@
-# Bert-BiLSTM-CRF-pytorch
-bert-bilstm-crf implemented in pytorch for named entity recognition.
+# bert-bilstm-crf-pytorch
 
+### 依赖
 ```
 python == 3.6
 pytorch == 0.4.1
